@@ -1,7 +1,3 @@
-# ai-schema-platform
-Платформа коллективной распределенной разработки интерактивных схем с голосовым управлением. (AI-schema)
-# AI-Schema Platform
-
 **Платформа коллективной распределённой разработки интерактивных схем с голосовым управлением**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -65,3 +61,8 @@ AI-Schema — это платформа, которая превращает г�
 
 ---
 
+📬 Контакты
+Автор: Константин Сергеев
+Email: hsergeyeff@gmail.com
+Telegram: @x1234_5678
+---
