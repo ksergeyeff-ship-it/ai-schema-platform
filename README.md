@@ -62,7 +62,7 @@ AI-Schema — это платформа, которая превращает г�
 ---
 
 📬 Контакты
-Автор: Константин Сергеев
-Email: hsergeyeff@gmail.com
-Telegram: @x1234_5678
+- Автор: Константин Сергеев
+- Email: ksergeyeff@gmail.com
+- Telegram: @x1234_5678
 ---
